@@ -7,58 +7,57 @@ Documenting and defining the skills that light-gun games routinely test, and dem
 
 ## The list
 
-* **Accuracy / "sniping"**: identifying and shooting a small target on screen, either a small or faraway shootable object (enemy/item/destructible env.).
-  * *example:* [Training mission 7, House of the Dead 2](https://youtu.be/FHGLGmdvArQ?si=k2JOvaWyQlEeQGdb&t=6)
-  
-* **Precision**: getting as many shots as possible on some target(s) and missing few.
-  * *example:* any game with "accuracy" bonus, or combo/chaining scoring system. for survival, [this attack from The Fool](https://youtu.be/kAhBcAaT5Vg?si=7VSvlykTj24dPbJf&t=701)
-  * WARNING: I am using [this definition](https://en.wikipedia.org/wiki/Accuracy_and_precision), you will see these two words mixed-up all the time, including in games themselves
+* **Precision / Accuracy**: getting as many shots as possible on some target(s) and missing few.
+  * *Example:* any game with an "accuracy" bonus, or combo/chaining scoring system. For survival, [this attack from The Fool](https://youtu.be/kAhBcAaT5Vg?si=7VSvlykTj24dPbJf&t=701)
   
 * **Rapid firing**: firing as many shots at a target, trading precision for raw fire-rate.
-  * *example:* [this attack from The Sun, House of the Dead 3](https://youtu.be/kAhBcAaT5Vg?si=wpTyuLU6tEvvTBO1&t=972)
+  * *Example:* [this attack from The Sun, House of the Dead 3](https://youtu.be/kAhBcAaT5Vg?si=wpTyuLU6tEvvTBO1&t=972)
   
 * **Quick reacting**: From the moment a target is shown on screen, identifying and shooting the target as quickly as possible.
-  * *example:* [shoot the birds, Point Blank 3](https://youtu.be/DK4jxtGhLLk?si=WlImRulUKni08Ap5&t=133)
+  * *Example:* [shoot the birds, Point Blank 3](https://youtu.be/DK4jxtGhLLk?si=WlImRulUKni08Ap5&t=133)
   * note: hard to find examples that aren't mixed with either Target IDing or routing
   
-* **Quick aiming** (may need better name): getting an accurate shot/precise shots on a moving target.
-  * *example:* [this attack from The Wheel of Fate, House of the Dead 3](https://youtu.be/hAAwtTDEw7s?si=fsy1dTs8X65FhS_o&t=674)
+* **Quick aiming** (may need better name): getting one or multiple accurate shot-s on a moving target.
+  * *Example:* [this attack from The Wheel of Fate, House of the Dead 3](https://youtu.be/hAAwtTDEw7s?si=fsy1dTs8X65FhS_o&t=674)
   
 * **Shot counting**: reloading only when clip is empty, pulling trigger only when clip is not empty.
-  * *example:* any game with limited ammo clip, so like 99% of light-gun games
+  * *Example:* any game with limited ammo clip, so like 99% of light-gun games
   
 * **Quick reloading**: minimizing reloading time.
-  * *example:* any game with a "shoot outside the screen" reload system (eg: HotD 1\&2), you can find this in a lot of video links here
+  * *Example:* any game with a "shoot outside the screen" reload system (eg: HotD 1\&2), you can find this in a lot of video links here
   
 * **Hit counting**: shooting the strictly required amount of bullets to take out a target, or get maximum points.
-  * *example:* *everything*, but more notably games with "3-point shot" like the Virtua Cop series and [Time Crisis 2-4](https://youtu.be/gPo9DL73xdQ?si=9nCHkVQHwe6SdwuU&t=88)
+  * *Example:* *everything*, but more notably games with "3-point shot" like the Virtua Cop series and [Time Crisis 2-4](https://youtu.be/gPo9DL73xdQ?si=9nCHkVQHwe6SdwuU&t=88)
   
 * **Memorization**: in light-gun game context, pre-emptively aim and shoot at targets you know are going to appear.
-  * *example:* any game in which threats spawn at a constant, pre-determined coordinate
+  * *Example:* any game in which threats spawn at a constant, pre-determined coordinate
   * note: this concept applies to many, *many* video games, but light-gun staples like Time Crisis and House of the Dead have entirely static enemy spawns and movement patterns
   
 * **Use of environment**: killing enemies with explosive things from the environment.
-  * *example:* explosive barrels or [vehicles](https://youtu.be/3_N7VfY04Gw?si=wSR4yAnyrsCzcNNI&t=267), shooting a thing to make it [fall on enemies](https://youtu.be/j3H90PxuE08?si=eJ7r1Aa70E90UtQn&t=1836), etc.
+  * *Example:* explosive barrels or [vehicles](https://youtu.be/3_N7VfY04Gw?si=wSR4yAnyrsCzcNNI&t=267), shooting a thing to make it [fall on enemies](https://youtu.be/j3H90PxuE08?si=eJ7r1Aa70E90UtQn&t=1836), etc.
 
 * **Threat management**: with two or more enemies on screen, identifying and shooting the most imminent danger.
-  * *example:* games with crowded enemy encounters, such as [Operation Wolf](https://youtu.be/dcIKACxhFRo?si=wzVBAM_xOS2Y6rE2&t=409) or others
+  * *Example:* games with crowded enemy encounters, such as [Operation Wolf](https://youtu.be/dcIKACxhFRo?si=wzVBAM_xOS2Y6rE2&t=409) or others
 
 * **Target IDing**: in games with shootable hostages/bombs, confirming enemy ID before shooting.
-  * *example:* [Time Crisis 3 rescue mission, stage 3](https://youtu.be/HNJ6R33Yr5Y?si=dx_QwQSWcaTkzM8G&t=400)
+  * *Example:* [Time Crisis 3 rescue mission, stage 3](https://youtu.be/HNJ6R33Yr5Y?si=dx_QwQSWcaTkzM8G&t=400)
+
+* **Sniping / "accurate shot"**: identifying and shooting a small target on screen, either a small or faraway shootable object (enemy/item/destructible env.).
+  * *Example:* [Training mission 7, House of the Dead 2](https://youtu.be/FHGLGmdvArQ?si=k2JOvaWyQlEeQGdb&t=6)
   
 * **Weapon selecting**: in games with multiple weapons, choosing the best tool for each target.
-  * *example:* [Trauma Center series](https://youtu.be/vhrq180YPtI?si=gJRxNWW_srsCbr6G&t=22), also Time Crisis 3 onwards
+  * *Example:* [Trauma Center series](https://youtu.be/vhrq180YPtI?si=gJRxNWW_srsCbr6G&t=22), also Time Crisis 3 onwards
   * note: I very strongly believe Trauma Center to be a light-gun game, on the grounds that it tests *the grand majority* of this here list
 
 * **Routing**: planning the use of limited ressources ahead.
-  * *example:* games with limited ammo guns, or limited projectiles like House of the Dead 4 or [Operation Wolf](https://youtu.be/YPkRzS_2P40?si=MIDnJBYm50YNPQZb&t=135)
+  * *Example:* games with limited ammo guns, or limited projectiles like House of the Dead 4 or [Operation Wolf](https://youtu.be/YPkRzS_2P40?si=MIDnJBYm50YNPQZb&t=135)
   note: also a more general principle, especially run-based games like arcade games and the rogue-like genre
 
 * **Multi-killing**: shooting at two or more lined-up targets with a single shot
-  * *example:* [Elemental Gearbolt (large hitbox + piercing shot)](https://youtu.be/EgwANIOpXFs?si=WUA4OeP9FHPJwonC&t=917), House of the Dead 3 (large hitbox shot)
+  * *Example:* [Elemental Gearbolt (large hitbox + piercing shot)](https://youtu.be/EgwANIOpXFs?si=WUA4OeP9FHPJwonC&t=917), House of the Dead 3 (large hitbox shot)
   
 * **Rhythm firing**: in games with a limited fire-rate but no auto-fire, firing shots as close to the fire-rate speed as possible.
-  * *example:* [Elemental Gearbolt](https://youtu.be/EgwANIOpXFs?si=DKYJJbnRLIR_MtyK&t=1010) (this is the only game I know of that does that)
+  * *Example:* [Elemental Gearbolt](https://youtu.be/EgwANIOpXFs?si=DKYJJbnRLIR_MtyK&t=1010) (this is the only game I know of that does that)
 
 
 
